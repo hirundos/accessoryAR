@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity AR final", "Assembly-CSharp.csproj", "{5C57621B-C734-1397-2E14-9C1B42DD891D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity AR final", "Assembly-CSharp-Editor.csproj", "{A9DD5136-E118-7597-4F5B-C83197F56D30}"
+EndProject
+Project("{024CD1E6-2E03-46E1-28EC-AE0CE59AFA0F}") = "Unity AR final", "Assembly-UnityScript-Editor-firstpass.unityproj", "{6AB3B3B9-C56C-228D-A020-7EF92B275FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C57621B-C734-1397-2E14-9C1B42DD891D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C57621B-C734-1397-2E14-9C1B42DD891D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C57621B-C734-1397-2E14-9C1B42DD891D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C57621B-C734-1397-2E14-9C1B42DD891D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9DD5136-E118-7597-4F5B-C83197F56D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DD5136-E118-7597-4F5B-C83197F56D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DD5136-E118-7597-4F5B-C83197F56D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DD5136-E118-7597-4F5B-C83197F56D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB3B3B9-C56C-228D-A020-7EF92B275FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB3B3B9-C56C-228D-A020-7EF92B275FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB3B3B9-C56C-228D-A020-7EF92B275FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB3B3B9-C56C-228D-A020-7EF92B275FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
