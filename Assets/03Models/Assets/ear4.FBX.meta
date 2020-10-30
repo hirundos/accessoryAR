@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 0a0c9d0b6f652a24dad1e040d1fe9777
+timeCreated: 1496573603
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bead011
+    100002: bead012
+    100004: bead013
+    100006: bead014
+    100008: bead015
+    100010: bead016
+    100012: bead017
+    100014: detail007
+    100016: detail008
+    100018: detail009
+    100020: detail010
+    100022: detail011
+    100024: detail012
+    100026: //RootNode
+    100028: hook001
+    100030: pin01
+    100032: pin02
+    100034: pin03
+    100036: pin04
+    100038: pin05
+    100040: pin06
+    100042: pin07
+    100044: pin08
+    100046: pin9
+    100048: spring001
+    400000: bead011
+    400002: bead012
+    400004: bead013
+    400006: bead014
+    400008: bead015
+    400010: bead016
+    400012: bead017
+    400014: detail007
+    400016: detail008
+    400018: detail009
+    400020: detail010
+    400022: detail011
+    400024: detail012
+    400026: //RootNode
+    400028: hook001
+    400030: pin01
+    400032: pin02
+    400034: pin03
+    400036: pin04
+    400038: pin05
+    400040: pin06
+    400042: pin07
+    400044: pin08
+    400046: pin9
+    400048: spring001
+    2300000: bead011
+    2300002: bead012
+    2300004: bead013
+    2300006: bead014
+    2300008: bead015
+    2300010: bead016
+    2300012: bead017
+    2300014: detail007
+    2300016: detail008
+    2300018: detail009
+    2300020: detail010
+    2300022: detail011
+    2300024: detail012
+    2300026: hook001
+    2300028: pin01
+    2300030: pin02
+    2300032: pin03
+    2300034: pin04
+    2300036: pin05
+    2300038: pin06
+    2300040: pin07
+    2300042: pin08
+    2300044: pin9
+    2300046: spring001
+    3300000: bead011
+    3300002: bead012
+    3300004: bead013
+    3300006: bead014
+    3300008: bead015
+    3300010: bead016
+    3300012: bead017
+    3300014: detail007
+    3300016: detail008
+    3300018: detail009
+    3300020: detail010
+    3300022: detail011
+    3300024: detail012
+    3300026: hook001
+    3300028: pin01
+    3300030: pin02
+    3300032: pin03
+    3300034: pin04
+    3300036: pin05
+    3300038: pin06
+    3300040: pin07
+    3300042: pin08
+    3300044: pin9
+    3300046: spring001
+    4300000: pin04
+    4300002: detail007
+    4300004: bead011
+    4300006: detail008
+    4300008: spring001
+    4300010: bead012
+    4300012: bead013
+    4300014: pin9
+    4300016: pin02
+    4300018: pin01
+    4300020: pin08
+    4300022: pin03
+    4300024: bead014
+    4300026: pin06
+    4300028: pin07
+    4300030: detail009
+    4300032: detail010
+    4300034: pin05
+    4300036: hook001
+    4300038: bead015
+    4300040: detail011
+    4300042: bead016
+    4300044: bead017
+    4300046: detail012
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
