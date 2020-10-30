@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 392f7b968e1c1de42a13b48a68d9c7d1
+timeCreated: 1496559044
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: profil
+    100004: profil01
+    100006: profil02
+    100008: profil03
+    100010: profil04
+    100012: profil05
+    100014: profil06
+    100016: profil07
+    100018: profil08
+    100020: spojka05
+    100022: spojka06
+    100024: spojka07
+    100026: spojka08
+    100028: spojka09
+    100030: spojka10
+    100032: spojka11
+    100034: spojka12
+    100036: spojka13
+    100038: SPONKA
+    400000: //RootNode
+    400002: profil
+    400004: profil01
+    400006: profil02
+    400008: profil03
+    400010: profil04
+    400012: profil05
+    400014: profil06
+    400016: profil07
+    400018: profil08
+    400020: spojka05
+    400022: spojka06
+    400024: spojka07
+    400026: spojka08
+    400028: spojka09
+    400030: spojka10
+    400032: spojka11
+    400034: spojka12
+    400036: spojka13
+    400038: SPONKA
+    2300000: profil
+    2300002: profil01
+    2300004: profil02
+    2300006: profil03
+    2300008: profil04
+    2300010: profil05
+    2300012: profil06
+    2300014: profil07
+    2300016: profil08
+    2300018: spojka05
+    2300020: spojka06
+    2300022: spojka07
+    2300024: spojka08
+    2300026: spojka09
+    2300028: spojka10
+    2300030: spojka11
+    2300032: spojka12
+    2300034: spojka13
+    2300036: SPONKA
+    3300000: profil
+    3300002: profil01
+    3300004: profil02
+    3300006: profil03
+    3300008: profil04
+    3300010: profil05
+    3300012: profil06
+    3300014: profil07
+    3300016: profil08
+    3300018: spojka05
+    3300020: spojka06
+    3300022: spojka07
+    3300024: spojka08
+    3300026: spojka09
+    3300028: spojka10
+    3300030: spojka11
+    3300032: spojka12
+    3300034: spojka13
+    3300036: SPONKA
+    4300000: spojka05
+    4300002: spojka13
+    4300004: profil01
+    4300006: profil02
+    4300008: spojka12
+    4300010: spojka11
+    4300012: profil05
+    4300014: profil06
+    4300016: profil07
+    4300018: profil08
+    4300020: SPONKA
+    4300022: spojka06
+    4300024: spojka07
+    4300026: spojka08
+    4300028: spojka09
+    4300030: spojka10
+    4300032: profil03
+    4300034: profil
+    4300036: profil04
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
