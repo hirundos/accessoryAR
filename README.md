@@ -9,6 +9,6 @@
 ![API](https://img.shields.io/badge/vuforia-yellow)
 
 
-|.|.|
+|상품 선택 화면|착용 화면|
 |-----|-|
-|![그림02](https://user-images.githubusercontent.com/64885411/97995315-b428d780-1e29-11eb-8302-118e040b9f16.png)|![Screenshot](https://user-images.githubusercontent.com/64885411/97995497-edf9de00-1e29-11eb-9d90-e9bd73a99edf.jpg)}
+|![그림02](https://user-images.githubusercontent.com/64885411/97995315-b428d780-1e29-11eb-8302-118e040b9f16.png)|![Screenshot](https://user-images.githubusercontent.com/64885411/97995497-edf9de00-1e29-11eb-9d90-e9bd73a99edf.jpg)|
