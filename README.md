@@ -15,6 +15,5 @@
 
 상품 선택 화면|착용 화면|
 |--------|-----------|
-|![ezgif com-gif-maker](https://user-images.githubusercontent.com/64885411/97996759-82187500-1e2b-11eb-81b2-a1fe0551a6f7.gif)
 |![Screenshot_20201031-180353_Wear](https://user-images.githubusercontent.com/64885411/97997006-d7ed1d00-1e2b-11eb-976f-d71ae4e87067.jpg)
 |![Screenshot](https://user-images.githubusercontent.com/64885411/97995497-edf9de00-1e29-11eb-9d90-e9bd73a99edf.jpg)|
